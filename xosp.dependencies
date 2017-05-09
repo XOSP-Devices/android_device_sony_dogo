@@ -37,7 +37,7 @@
   },
   {
     "remote": "XOSPD",
-    "revision": "xosp-n",
+    "revision": "cm-14.1",
     "repository": "daedroza/proprietary_vendor_sony",
     "target_path": "vendor/sony"
   }
