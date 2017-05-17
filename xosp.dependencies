@@ -20,7 +20,7 @@
   {    
 	"remote": "XOSPD",
     "revision": "cm-14.1",
-    "repository": "daedroza/kernel_sony_apq8064",
+    "repository": "RobinRR/kernel_sony_apq8064",
     "target_path": "kernel/sony/apq8064"
   },
   {
